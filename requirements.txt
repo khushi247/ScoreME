@@ -3,7 +3,7 @@ groq==0.4.1
 httpx==0.24.1
 SpeechRecognition==3.10.0
 opencv-python==4.10.0.84
-numpy==1.26.4
+numpy
 Pillow
 PyAudio==0.2.14
 python-dotenv==1.0.0
