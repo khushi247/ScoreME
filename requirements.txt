@@ -5,8 +5,7 @@ SpeechRecognition
 opencv-python-headless
 numpy
 Pillow
-PyAudio
 python-dotenv
 pydub
 ffmpeg-python
-mediapipe
+mediapipe==0.10.9
