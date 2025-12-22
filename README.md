@@ -1,3 +1,4 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://scoreme.streamlit.app/)
 # 🎯 AI Mock Interview Evaluator
 
 A production-ready mock interview platform powered by AI that evaluates candidates on their answers, communication skills, body language, and overall performance. Built with Streamlit and Groq's latest LLM models.
